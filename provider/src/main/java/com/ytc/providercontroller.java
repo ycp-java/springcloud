@@ -19,5 +19,7 @@ package com.ytc;
  * @since 1.0.0
  */
 public class providercontroller {
-
+    public static void main(String[] args) {
+        System.out.println(22);
+    }
 }
